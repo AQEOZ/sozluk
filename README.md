@@ -1,1 +1,1 @@
-# sozluk
+print("skibidi")
